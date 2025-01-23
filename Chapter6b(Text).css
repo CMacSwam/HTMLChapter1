@@ -1,0 +1,58 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom:0;
+}
+.template{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.video-title{
+    font-weight: bold;
+    text-align: left;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.views{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+}
+
+.name{
+    color: rgb(96,96,96);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.caption{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    width: 275px;
+    line-height: 20px;
+    margin-bottom: 0;
+}
+
+.shop{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.textMod:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
